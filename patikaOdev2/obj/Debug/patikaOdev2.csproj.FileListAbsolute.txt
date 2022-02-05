@@ -1,0 +1,14 @@
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev2\bin\Debug\patikaOdev2.exe.config
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev2\bin\Debug\patikaOdev2.exe
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev2\bin\Debug\patikaOdev2.pdb
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev2\obj\Debug\patikaOdev2.csproj.AssemblyReference.cache
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev2\obj\Debug\patikaOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev2\obj\Debug\patikaOdev2.exe
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev2\obj\Debug\patikaOdev2.pdb
+C:\Users\Musa\source\repos\patikaOdevs\patikaOdev2\bin\Debug\patikaOdev2.exe.config
+C:\Users\Musa\source\repos\patikaOdevs\patikaOdev2\bin\Debug\patikaOdev2.exe
+C:\Users\Musa\source\repos\patikaOdevs\patikaOdev2\bin\Debug\patikaOdev2.pdb
+C:\Users\Musa\source\repos\patikaOdevs\patikaOdev2\obj\Debug\patikaOdev2.csproj.AssemblyReference.cache
+C:\Users\Musa\source\repos\patikaOdevs\patikaOdev2\obj\Debug\patikaOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Musa\source\repos\patikaOdevs\patikaOdev2\obj\Debug\patikaOdev2.exe
+C:\Users\Musa\source\repos\patikaOdevs\patikaOdev2\obj\Debug\patikaOdev2.pdb

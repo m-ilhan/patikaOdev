@@ -1,0 +1,7 @@
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev3\bin\Debug\patikaOdev3.exe.config
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev3\bin\Debug\patikaOdev3.exe
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev3\bin\Debug\patikaOdev3.pdb
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev3\obj\Debug\patikaOdev3.csproj.AssemblyReference.cache
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev3\obj\Debug\patikaOdev3.csproj.CoreCompileInputs.cache
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev3\obj\Debug\patikaOdev3.exe
+C:\Users\Musa\source\repos\patikaOdev1\patikaOdev3\obj\Debug\patikaOdev3.pdb
